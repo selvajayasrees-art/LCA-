@@ -1,0 +1,9 @@
+scenario,category,value,complete
+JF,Climate change (kg CO2e),2212.119230769231,False
+JF,Acidification (mol H+ eq),0.0,False
+JF,"Eutrophication, freshwater (kg P eq)",0.0,False
+PLA1,Fossil energy (MJ),54.2,True
+PLA lit.,PLA1 GWP,1.8,True
+PLA lit.,PLA1 + new lactic acid tech GWP,1.2,True
+PLA lit.,Biorefinery + grid power GWP,-0.3,True
+PLA lit.,Biorefinery + wind (B/WP) GWP,-1.7,True

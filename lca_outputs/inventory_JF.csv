@@ -1,0 +1,13 @@
+scenario,process,flow,kind,compartment,amount,unit,source,background
+JF,Starch extraction from jackfruit seed,Jackfruit seed powder,input,technosphere,2.7692307692307696,kg,deck,"By-product, zero burden (cut-off)"
+JF,Starch extraction from jackfruit seed,"Water, distilled",input,technosphere,27.692307692307693,L,deck,"Agribalyse/ecoinvent: water, deionised"
+JF,Starch extraction from jackfruit seed,"Electricity, grid (India)",input,technosphere,50.261538461538464,kWh,deck,"Agribalyse/ecoinvent: electricity, medium voltage, IN"
+JF,Starch extraction from jackfruit seed,Jackfruit seed starch,output,product,0.7692307692307693,kg,deck,
+JF,Starch extraction from jackfruit seed,Seed residue (solid),output,waste,2.0,kg,ASSUMPTION,
+JF,Starch extraction from jackfruit seed,Wastewater,output,waste,27.692307692307693,L,ASSUMPTION,
+JF,Bioplastic film casting,Jackfruit seed starch,input,intermediate,0.7692307692307693,kg,deck,
+JF,Bioplastic film casting,Glycerol,input,technosphere,0.23076923076923075,kg,deck,Agribalyse/ecoinvent: glycerine
+JF,Bioplastic film casting,"Water, distilled",input,technosphere,38.46153846153847,L,deck,"Agribalyse/ecoinvent: water, deionised"
+JF,Bioplastic film casting,"Electricity, grid (India)",input,technosphere,2899.2307692307695,kWh,deck,"Agribalyse/ecoinvent: electricity, medium voltage, IN"
+JF,Bioplastic film casting,Bioplastic film,output,product,1.0,kg,deck,
+JF,Bioplastic film casting,Water evaporated,output,emission,38.46153846153847,L,ASSUMPTION,
